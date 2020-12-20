@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #4747d1;">
     <div class="container">
 
         <a class="navbar-brand" href="index.php">
-            Lentrix CourseWare
+            CourseWare
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
